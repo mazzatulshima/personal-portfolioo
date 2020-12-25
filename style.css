@@ -1,0 +1,33 @@
+body {
+		background-color: lightpink;
+}
+
+h1 {
+	font-face: rockwell extra bold;
+	font-size:30px;
+	color:black;
+	border: solid;
+	border-color:#3C1874;
+	border-radius: 50px;
+}
+
+
+p{
+	background-color:white;
+	font-size:30px;
+	text-align:center;
+	color: indianred;
+	font-family: 'Sedgwick Ave Display', cursive;
+
+
+h2 {
+	font-face:rockwell extra bold;
+	font-size: 30px;
+	color:purple;
+}
+
+h3{
+	font-face:rockwell extra bold;
+	font-size: 20px;
+	color:darkblue;
+}
